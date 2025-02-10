@@ -155,11 +155,4 @@ const CONFIG = {
   HEO_WIDGET_DARK_MODE: true, // 夜间模式
   HEO_WIDGET_TOC: true // 移动端悬浮目录
 }
----
-title: 留言板
-date: 2019-06-08 14:12:01
-type: guestbook
-comments: true
----
-<div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>
 export default CONFIG
